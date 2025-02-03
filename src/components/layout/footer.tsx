@@ -65,7 +65,7 @@ export function Footer() {
                 <GitHubLogoIcon className="w-5 h-5" />
               </a>
               <a
-                href="https://wa.me/639555791093"
+                href="https://linkedin.com/kegabmaranan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground"
@@ -74,7 +74,7 @@ export function Footer() {
                 <LinkedInLogoIcon className="w-5 h-5" />
               </a>
               <a
-                href="https://orcid.org/0009-0004-1978-3356"
+                href="https://wa.me/639555791093"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground"
