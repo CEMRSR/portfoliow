@@ -262,9 +262,6 @@ export function AboutDetail() {
                     <p className="text-sm text-muted-foreground">
                       {education.startDate} - {education.endDate}
                     </p>
-                    <p className="text-sm font-medium text-primary">
-                      GPA: {education.gpa}
-                    </p>
                   </div>
                 </div>
                 <div className="mt-3">

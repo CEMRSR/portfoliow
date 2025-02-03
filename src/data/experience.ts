@@ -20,9 +20,9 @@ export interface Experience {
 export const experiences: Experience[] = [
   {
     title: "Senior Full-Stack Engineer",
-    company: "Agnos",
+    company: "Mercury Development",
     location: "Miami, Florida, United States",
-    startDate: "May 2024",
+    startDate: "Mar 2022",
     endDate: "Present",
     isRemote: true,
     achievements: [
@@ -34,20 +34,25 @@ export const experiences: Experience[] = [
       { text: "Created reusable Docker images, reducing deployment time by 50%" }
     ],
     skills: [
-      { name: "AWS" },
-      { name: "Python" },
-      { name: "Machine Learning" },
-      { name: "IaC" },
-      { name: "CI/CD" },
-      { name: "Docker" }
+      { name: "Next.js" },
+      { name: "Node.js" },
+      { name: "NestJS" },
+      { name: "Django" },
+      { name: "Express.js" },
+      { name: "GraphQL" },
+      { name: "AWS Lambda" },
+      { name: "AWS S3" },
+      { name: "Docker" },
+      { name: "Leadership" },
+      { name: "Mentoring" }
     ]
   },
   {
     title: "Full-Stack Developer",
-    company: "3M",
-    location: "Maplewood, Minnesota, United States",
-    startDate: "Nov 2023",
-    endDate: "May 2024",
+    company: "Netguru",
+    location: "Poznan, Wielkopolskie, Poland",
+    startDate: "Jul 2020",
+    endDate: "Feb 2020",
     isRemote: true,
     achievements: [
       { text: "Led a critical project impacting $750M in revenue, developing digital solutions for instrument assessment and validation" },
@@ -62,12 +67,12 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    title: "Advanced Data Engineer",
-    company: "3M",
-    location: "Maplewood, Minnesota, United States",
-    startDate: "Dec 2022",
-    endDate: "Nov 2023",
-    isRemote: true,
+    title: "Software Developer",
+    company: "Saperium",
+    location: "National Capital Region, Philippines",
+    startDate: "Apr 2018",
+    endDate: "Jun 2020",
+    isRemote: false,
     achievements: [
       { text: "Implemented secure AWS S3 cloud storage architecture for University of Chicago collaboration" },
       { text: "Founded \"Python Plotly Dash Working Group\", creating reusable templates and component libraries" },
@@ -82,11 +87,11 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    title: "Software Engineer",
-    company: "3M",
-    location: "Maplewood, Minnesota, United States",
-    startDate: "Sep 2020",
-    endDate: "Mar 2022",
+    title: "Back-End Developer",
+    company: "",
+    location: "",
+    startDate: "Sep 2017",
+    endDate: "Mar 2018",
     achievements: [
       { text: "Led development of cloud-based enterprise system for R&D documentation" },
       { text: "Managed Agile engineering team and delivered project ahead of schedule" },
@@ -105,30 +110,12 @@ export const experiences: Experience[] = [
 
 export const previousExperiences: Experience[] = [
   {
-    title: "Software Development Engineer",
-    company: "C-TEQ Data Consultants",
-    location: "Minneapolis, Minnesota, United States",
-    startDate: "Jan 2020",
-    endDate: "Sep 2020",
+    title: "Back-End Developer Intern",
+    company: "Capgemini",
+    location: "Singapore, Singapore",
+    startDate: "Oct 2016",
+    endDate: "Jul 2017",
     achievements: [],
-    skills: []
-  },
-  {
-    title: "Undergraduate IoT Researcher",
-    company: "Augsburg University",
-    location: "Minneapolis, Minnesota, United States",
-    startDate: "Nov 2019",
-    endDate: "May 2020",
-    achievements: [],
-    skills: []
-  },
-  {
-    title: "Undergraduate AI Researcher",
-    company: "Augsburg University",
-    location: "Minneapolis, Minnesota, United States",
-    startDate: "Dec 2018",
-    endDate: "Oct 2019",
-    achievements: [],
-    skills: []
+    skills: [],
   }
 ]; 
