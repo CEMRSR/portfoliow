@@ -1,4 +1,4 @@
-# 🏗️ mykola-platform-io
+# 🏗️ Kevin-platform-io
 
 Demonstrates AWS solutions architecture through serverless APIs and infrastructure as code. Built with React 18 RC, Next.js 14, AWS CDK, and modern DevOps practices.
 
@@ -158,7 +158,7 @@ sequenceDiagram
 ## 📁 Project Structure
 
 ```bash
-mykola-platform-io/
+Kevin-platform-io/
 ├── .github/                # GitHub Actions workflows
 │   └── workflows/
 ├── infrastructure/         # CDK infrastructure code
