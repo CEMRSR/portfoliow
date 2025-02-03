@@ -19,9 +19,9 @@ export interface Experience {
 
 export const experiences: Experience[] = [
   {
-    title: "Senior Data Scientist",
-    company: "3M",
-    location: "Maplewood, Minnesota, United States",
+    title: "Senior Full-Stack Engineer",
+    company: "Agnos",
+    location: "Miami, Florida, United States",
     startDate: "May 2024",
     endDate: "Present",
     isRemote: true,
@@ -43,7 +43,7 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    title: "Advanced Data Scientist",
+    title: "Full-Stack Developer",
     company: "3M",
     location: "Maplewood, Minnesota, United States",
     startDate: "Nov 2023",

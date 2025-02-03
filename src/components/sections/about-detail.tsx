@@ -44,7 +44,7 @@ export function AboutDetail() {
             <div>
               <h1 className="text-4xl md:text-5xl font-bold mb-4">Kevin Gabriel Maranan</h1>
               <p className="text-xl text-muted-foreground mb-4">
-                Senior Full Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce
+                Senior Full-Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce
               </p>
               <div className="flex flex-wrap gap-2">
                 <Badge variant="outline" className="bg-primary/10">
@@ -81,23 +81,21 @@ export function AboutDetail() {
             </h2>
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                As a Senior Data Scientist at 3M Corporate Research Analytical Laboratory, I specialize in cloud solutions architecture, 
-                developing scalable, cost-effective AWS infrastructures to solve complex analytical challenges. Based in Salt Lake City, 
-                I bring expertise in AI/ML, generative AI, and data-driven cloud environments, with a track record of transforming 
-                operations through efficient, reliable, and strategically designed solutions.
+                As a Senior Full Stack Engineer, I specialize in designing and developing scalable web applications and managing cloud 
+                infrastructure to solve complex technical challenges. Based in a fast-paced environment, I bring expertise in system 
+                optimization, DevOps practices, and cloud solutions, with a track record of transforming operations through efficient, 
+                reliable, and strategically designed solutions.
               </p>
               <p>
-                My recent achievements include leading CRAL&apos;s infrastructure migration to AWS, resulting in 60% cost reduction, 
-                and establishing scalable frameworks supporting diverse teams across 3M. I&apos;ve developed custom Python packages, 
-                reusable IaC libraries, and modernized CI/CD pipelines, consistently delivering 50%+ improvements in performance 
-                and deployment efficiency.
+                My recent achievements include optimizing system performance, reducing load times by 30%, and implementing DevOps workflows 
+                that improved deployment efficiency by 40%. I&apos;ve also contributed to improving application security and collaborating with 
+                cross-functional teams to ensure high-quality software delivery.
               </p>
               <p>
-                With a strong foundation in Computer Science and Mathematics from Augsburg University and six AWS certifications, 
-                I&apos;ve evolved from software engineering to become a leader in cloud architecture and data science. I&apos;m passionate 
-                about advancing cloud-based technologies and architecting solutions that enable operational agility and innovation. 
-                Outside of tech, I&apos;m an avid freestyle skier and outdoor enthusiast, bringing the same dedication to precision 
-                and continuous improvement from the slopes to my professional work.
+                With a strong foundation in full-stack development, cloud technologies, and system optimization, I&apos;ve evolved from backend 
+                development to becoming a key player in delivering cutting-edge, scalable solutions. I&apos;m passionate about advancing software 
+                development practices and driving operational efficiency. Outside of work, I enjoy outdoor activities like hiking and sports, 
+                which helps me stay balanced and energized for my professional work.
               </p>
             </div>
           </Card>

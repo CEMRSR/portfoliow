@@ -16,7 +16,7 @@ export function generatePersonSchema() {
     knowsAbout: [
       "AWS Cloud Architecture",
       "Serverless Computing",
-      "Full Stack Development",
+      "Full-Stack Development",
       "React",
       "Next.js",
       "TypeScript",
@@ -32,7 +32,7 @@ export function generateWebsiteSchema() {
     name: "Kevin Gabriel Maranan - Portfolio",
     url: "https://bjornmelin.com",
     description:
-      "Personal portfolio and blog of Kevin Gabriel Maranan, AWS Solutions Architect and Full Stack Developer.",
+      "Personal portfolio and blog of Kevin Gabriel Maranan, AWS Solutions Architect and Full-Stack Developer.",
     author: {
       "@type": "Person",
       name: "Kevin Gabriel Maranan",

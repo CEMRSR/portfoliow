@@ -14,11 +14,11 @@ export function generateMetadata({
   image,
 }: GenerateMetadataProps): Metadata {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bjornmelin.com';
-  const fullTitle = title ? `${title} | Kevin Gabriel Maranan` : 'Kevin Gabriel Maranan - AWS Solutions Architect & Full Stack Developer';
+  const fullTitle = title ? `${title} | Kevin Gabriel Maranan` : 'Kevin Gabriel Maranan - AWS Solutions Architect & Full-Stack Developer';
   
   return {
     title: fullTitle,
-    description: description || 'AWS Solutions Architect and Full Stack Developer specializing in cloud architecture, serverless computing, and modern web development.',
+    description: description || 'AWS Solutions Architect and Full-Stack Developer specializing in cloud architecture, serverless computing, and modern web development.',
     metadataBase: new URL(baseUrl),
     alternates: {
       canonical: `${baseUrl}${path}`,

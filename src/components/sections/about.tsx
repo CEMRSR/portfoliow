@@ -24,12 +24,12 @@ export function About() {
             About Me
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Crafting AI Solutions &{" "}
-            <span className="text-primary">Cloud Architecture</span>
+            Scalable, Secure &{" "}
+            <span className="text-primary">High Performance</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Senior Data Scientist and AWS Solutions Architect specializing in
-            AI/ML innovations and scalable cloud architecture
+            Senior Full-Stack Engineer specializing in Scalable, Secure, High-performance
+            Web & Mobile Applications for various Industries.
           </p>
         </div>
 
@@ -44,11 +44,11 @@ export function About() {
               <h3 className="text-2xl font-semibold">Background</h3>
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              As a Senior Data Scientist and Cloud Solutions Architect with 6
-              AWS certifications, I specialize in developing cutting-edge AI/ML
-              solutions and GenAI innovations. My expertise spans cloud
-              architecture, machine learning, and building scalable AI solutions
-              that drive business value.
+              As a Senior Full-Stack Engineer with over seven years of experience, 
+              I have led the design, development, and optimization of high-performance 
+              web applications. My expertise spans front-end and back-end technologies,
+              cloud infrastructure, and DevOps, allowing me to deliver scalable and 
+              secure software solutions.
             </p>
           </Card>
 

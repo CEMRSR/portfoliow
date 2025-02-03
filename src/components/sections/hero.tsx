@@ -37,7 +37,7 @@ export function Hero() {
               Hi, I&apos;m Kevin Gabriel Maranan
             </h1>
             <p className="mt-6 text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-3xl">
-              Senior Full Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce
+              Senior Full-Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <Link
