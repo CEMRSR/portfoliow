@@ -162,7 +162,7 @@ export function AboutDetail() {
         </motion.div>
 
         {/* Certifications - Shows current skills and continuous learning */}
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
@@ -237,7 +237,7 @@ export function AboutDetail() {
               </motion.div>
             ))}
           </div>
-        </motion.div>
+        </motion.div> */}
 
         {/* Education - Supporting qualifications */}
         <motion.div
