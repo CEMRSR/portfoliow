@@ -1,6 +1,6 @@
 # API Overview
 
-The bjornmelin-platform-io API is built on AWS Lambda with Edge capabilities, using tRPC for end-to-end type safety.
+The kegabmaranan-platform-io API is built on AWS Lambda with Edge capabilities, using tRPC for end-to-end type safety.
 
 ## Architecture
 
@@ -19,8 +19,8 @@ The bjornmelin-platform-io API is built on AWS Lambda with Edge capabilities, us
 ## Base URL
 
 ```plaintext
-Production: https://api.bjornmelin.io/v1
-Staging: https://api.staging.bjornmelin.io/v1
+Production: https://api.kegabmaranan.io/v1
+Staging: https://api.staging.kegabmaranan.io/v1
 Development: http://localhost:3000/api/v1
 ```
 

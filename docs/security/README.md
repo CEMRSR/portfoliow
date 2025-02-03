@@ -1,6 +1,6 @@
 # Security Overview
 
-This section provides an overview of the security practices and configurations for the bjornmelin-platform-io project.
+This section provides an overview of the security practices and configurations for the kegabmaranan-platform-io project.
 
 ## Contents
 

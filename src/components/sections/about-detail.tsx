@@ -276,7 +276,7 @@ export function AboutDetail() {
                   ))}
                 </div>
                 <div className="mt-4">
-                  <p className="text-sm font-medium mb-2">Activities and Societies:</p>
+                  <p className="text-sm font-medium mb-2">Activities:</p>
                   <ul className="list-disc list-inside text-sm text-muted-foreground space-y-1 ml-2">
                     {education.activities.map((activity, index) => (
                       <li key={index}>{activity.name}</li>

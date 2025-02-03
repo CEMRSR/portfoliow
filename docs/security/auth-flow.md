@@ -1,6 +1,6 @@
 # Authentication Flows
 
-This document provides an overview of the authentication flows used within the bjornmelin-platform-io project.
+This document provides an overview of the authentication flows used within the kegabmaranan-platform-io project.
 
 ## Overview
 

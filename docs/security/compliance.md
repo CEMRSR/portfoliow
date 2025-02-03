@@ -1,6 +1,6 @@
 # Security Compliance
 
-This document outlines the security compliance requirements and guidelines for the bjornmelin-platform-io project.
+This document outlines the security compliance requirements and guidelines for the kegabmaranan-platform-io project.
 
 ## Overview
 

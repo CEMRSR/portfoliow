@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section provides comprehensive documentation for developers working on the bjornmelin-platform-io project. Our development process emphasizes code quality, security, and maintainable architecture.
+This section provides comprehensive documentation for developers working on the kegabmaranan-platform-io project. Our development process emphasizes code quality, security, and maintainable architecture.
 
 ## Documentation Structure
 

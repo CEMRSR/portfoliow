@@ -1,6 +1,6 @@
 # Secrets Management
 
-This document provides guidelines and best practices for managing secrets within the bjornmelin-platform-io project.
+This document provides guidelines and best practices for managing secrets within the kegabmaranan-platform-io project.
 
 ## Overview
 

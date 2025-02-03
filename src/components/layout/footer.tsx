@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Mail } from "lucide-react";
 import { GitHubLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
+import { FaWhatsapp } from 'react-icons/fa';
 import { BookText } from "lucide-react";
 import { BookOpenCheck } from "lucide-react";
 
@@ -55,7 +56,7 @@ export function Footer() {
             <h3 className="text-lg font-semibold">Connect</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/bjornmelin"
+                href="https://github.com/CEMRSR"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground"
@@ -64,7 +65,7 @@ export function Footer() {
                 <GitHubLogoIcon className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/bjorn-melin"
+                href="https://wa.me/639555791093"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground"
@@ -73,25 +74,16 @@ export function Footer() {
                 <LinkedInLogoIcon className="w-5 h-5" />
               </a>
               <a
-                href="https://medium.com/@bjornmelin"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-foreground/60 hover:text-foreground"
-                aria-label="Medium"
-              >
-                <BookText size={20} />
-              </a>
-              <a
                 href="https://orcid.org/0009-0004-1978-3356"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground"
                 aria-label="ORCID"
               >
-                <BookOpenCheck size={20} />
+                <FaWhatsapp size={20} />
               </a>
               <a
-                href="mailto:bjornmelin16@gmail.com"
+                href="mailto:kegabmaranan@gmail.com"
                 className="text-foreground/60 hover:text-foreground"
                 aria-label="Email"
               >

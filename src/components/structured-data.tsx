@@ -3,13 +3,13 @@ export function generatePersonSchema() {
     "@context": "https://schema.org",
     "@type": "Person",
     name: "Kevin Gabriel Maranan",
-    url: "https://bjornmelin.com",
+    url: "https://kegabmaranan.com",
     jobTitle: "Senior Data Scientist & Cloud Solutions Architect",
     description:
       "Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, and cloud architecture. 6x AWS Certified professional.",
     sameAs: [
-      "https://github.com/bjornmelin",
-      "https://linkedin.com/in/bjornmelin",
+      "https://github.com/kegabmaranan",
+      "https://linkedin.com/in/kegabmaranan",
       "https://orcid.org/0000-0003-3891-5522",
       "https://www.coursera.org/learner/bjorn-melin",
     ],
@@ -30,7 +30,7 @@ export function generateWebsiteSchema() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Kevin Gabriel Maranan - Portfolio",
-    url: "https://bjornmelin.com",
+    url: "https://kegabmaranan.com",
     description:
       "Personal portfolio and blog of Kevin Gabriel Maranan, AWS Solutions Architect and Full-Stack Developer.",
     author: {

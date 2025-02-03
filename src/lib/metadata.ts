@@ -13,7 +13,7 @@ export function generateMetadata({
   path = '',
   image,
 }: GenerateMetadataProps): Metadata {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bjornmelin.com';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://kegabmaranan.com';
   const fullTitle = title ? `${title} | Kevin Gabriel Maranan` : 'Kevin Gabriel Maranan - AWS Solutions Architect & Full-Stack Developer';
   
   return {

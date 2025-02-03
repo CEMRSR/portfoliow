@@ -6,33 +6,33 @@ export interface Hobby {
 
 export const hobbies: Hobby[] = [
   {
-    name: "Freestyle Skiing",
-    emoji: "🎿",
-    description: "Passionate about pushing boundaries and perfecting technique on the slopes"
+    name: "Water sports",
+    emoji: "🌊",
+    description: "Swimming and kayaking in the ocean bring me a sense of freedom and excitement."
+  },
+  {
+    name: "Photography",
+    emoji: "📸",
+    description: "Photography lets me capture the beauty of Mindoro, preserving moments that inspire me."
+  },
+  {
+    name: "Fishing",
+    emoji: "🎣",
+    description: "Fishing offers me peace and a rewarding connection with the sea."
+  },
+  {
+    name: "Gardening",
+    emoji: "🌱",
+    description: "Gardening lets me nurture life, growing plants that thrive in the tropical climate."
   },
   {
     name: "Hiking",
-    emoji: "🏔️",
-    description: "Exploring Utah's beautiful trails and mountain ranges"
+    emoji: "🥾",
+    description: "Hiking through Mindoro's trails fills me with awe, deepening my love for nature."
   },
   {
-    name: "Road Biking",
-    emoji: "🚴‍♂️",
-    description: "Enjoying scenic routes and maintaining an active lifestyle"
-  },
-  {
-    name: "Camping",
-    emoji: "⛺",
-    description: "Connecting with nature and embracing outdoor adventures"
-  },
-  {
-    name: "Boating",
-    emoji: "🚤",
-    description: "Making waves and enjoying water activities"
-  },
-  {
-    name: "Traveling",
-    emoji: "✈️",
-    description: "Exploring new cultures and broadening perspectives"
+    name: "Cooking",
+    emoji: "🍳",
+    description: "Cooking fuels my creativity, experimenting with Filipino dishes to create new flavors."
   }
 ]; 

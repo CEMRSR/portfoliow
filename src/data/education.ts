@@ -32,10 +32,10 @@ export const education: Education = {
     { name: "Artificial Intelligence and Machine Learning" }
   ],
   activities: [
-    { name: "NASA Space Grant Recipient" },
-    { name: "Member of Pi Mu Epsilon (National Mathematics Honor Society)" },
-    { name: "Vice President of Mathematics Unbounded Club" },
-    { name: "Vice President of Association for Computing Machinery (ACM)" },
-    { name: "Undergraduate Research Opportunity Program (URGO)" }
+    { name: "Participated in several coding competitions and hackathons, solving real-world challenges." },
+    { name: "Attended and helped organize workshops on emerging tech like AI and machine learning." },
+    { name: "Collaborated in the university's tech club, working on projects and exchanging ideas with peers." },
+    { name: "Gained hands-on experience through internships at local tech companies." },
+    { name: "Worked with classmates on group projects to develop software and applications for coursework." }
   ]
 }; 

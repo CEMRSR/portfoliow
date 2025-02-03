@@ -10,8 +10,8 @@ export const projectsData: Project[] = [
     technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "AWS"],
     category: "Web Development",
     links: {
-      github: "https://github.com/bjornmelin/bjornmelin-platform-io",
-      live: "https://bjornmelin.io",
+      github: "https://github.com/CEMRSR/portfoliow",
+      live: "https://kegabmaranan.vercel.app/",
     },
     featured: true,
   },
@@ -34,7 +34,7 @@ export const projectsData: Project[] = [
     ],
     category: "AI & Machine Learning",
     links: {
-      github: "https://github.com/BjornMelin/aiscout",
+      github: "https://github.com/kegabmaranan/aiscout",
       //   demo: 'https://demo.example.com',
     },
     featured: true,
@@ -64,7 +64,7 @@ export const projectsData: Project[] = [
     ],
     category: "AI & Machine Learning",
     links: {
-      github: "https://github.com/BjornMelin/pdfusion",
+      github: "https://github.com/kegabmaranan/pdfusion",
     },
     featured: true,
   },

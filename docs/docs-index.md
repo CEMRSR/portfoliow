@@ -1,6 +1,6 @@
 # Documentation
 
-Welcome to the bjornmelin-platform-io documentation. This documentation is organized into several main sections:
+Welcome to the kegabmaranan-platform-io documentation. This documentation is organized into several main sections:
 
 ## 📚 Contents
 

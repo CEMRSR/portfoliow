@@ -298,8 +298,8 @@ For additional help, consult:
 
 ```bash
 # Clone the repository
-git clone https://github.com/bjornmelin/bjornmelin-platform-io.git
-cd bjornmelin-platform-io
+git clone https://github.com/kegabmaranan/kegabmaranan-platform-io.git
+cd kegabmaranan-platform-io
 
 # Install dependencies
 pnpm install
@@ -352,7 +352,7 @@ Testing:
 ## Project Structure
 
 ```
-bjornmelin-platform-io/
+kegabmaranan-platform-io/
 ├── app/                   # Next.js application
 ├── components/           # React components
 ├── lib/                  # Shared utilities
