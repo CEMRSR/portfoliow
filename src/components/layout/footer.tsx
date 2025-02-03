@@ -4,8 +4,8 @@ import Link from "next/link";
 import { Mail } from "lucide-react";
 import { GitHubLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
 import { FaWhatsapp } from 'react-icons/fa';
-import { BookText } from "lucide-react";
-import { BookOpenCheck } from "lucide-react";
+// import { BookText } from "lucide-react";
+// import { BookOpenCheck } from "lucide-react";
 
 export function Footer() {
   return (

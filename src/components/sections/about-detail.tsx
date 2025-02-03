@@ -9,12 +9,12 @@ import {
   Code,
   Building2,
   GraduationCap,
-  Award,
+  // Award,
   Sparkles,
 } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { certifications } from "@/data/certifications";
+// import { certifications } from "@/data/certifications";
 import { experiences, previousExperiences } from "@/data/experience";
 import { education } from "@/data/education";
 import { hobbies } from "@/data/hobbies";
