@@ -20,8 +20,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Bjorn Melin",
-    default: "Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect",
+    template: "%s | Kevin Gabriel Maranan",
+    default: "Kevin Gabriel Maranan - Senior Data Scientist & Cloud Solutions Architect",
   },
   description:
     "Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, cloud architecture, and modern development.",
@@ -45,8 +45,8 @@ export const metadata: Metadata = {
     "Node.js",
     "Cloud Computing",
   ],
-  authors: [{ name: "Bjorn Melin" }],
-  creator: "Bjorn Melin",
+  authors: [{ name: "Kevin Gabriel Maranan" }],
+  creator: "Kevin Gabriel Maranan",
 };
 
 export default function RootLayout({

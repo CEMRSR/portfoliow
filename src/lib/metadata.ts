@@ -14,7 +14,7 @@ export function generateMetadata({
   image,
 }: GenerateMetadataProps): Metadata {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bjornmelin.com';
-  const fullTitle = title ? `${title} | Bjorn Melin` : 'Bjorn Melin - AWS Solutions Architect & Full Stack Developer';
+  const fullTitle = title ? `${title} | Kevin Gabriel Maranan` : 'Kevin Gabriel Maranan - AWS Solutions Architect & Full Stack Developer';
   
   return {
     title: fullTitle,
@@ -27,7 +27,7 @@ export function generateMetadata({
       title: fullTitle,
       description,
       url: `${baseUrl}${path}`,
-      siteName: 'Bjorn Melin',
+      siteName: 'Kevin Gabriel Maranan',
       type: 'website',
       ...(image && { images: [{ url: image }] }),
     },

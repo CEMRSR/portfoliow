@@ -15,7 +15,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Portfolio</h3>
             <p className="text-sm text-foreground/60">
-              © {new Date().getFullYear()} Bjorn Melin. All rights reserved.
+              © {new Date().getFullYear()} Kevin Gabriel Maranan. All rights reserved.
             </p>
           </div>
 

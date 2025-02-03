@@ -2,7 +2,7 @@ export function generatePersonSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Bjorn Melin",
+    name: "Kevin Gabriel Maranan",
     url: "https://bjornmelin.com",
     jobTitle: "Senior Data Scientist & Cloud Solutions Architect",
     description:
@@ -29,13 +29,13 @@ export function generateWebsiteSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Bjorn Melin - Portfolio",
+    name: "Kevin Gabriel Maranan - Portfolio",
     url: "https://bjornmelin.com",
     description:
-      "Personal portfolio and blog of Bjorn Melin, AWS Solutions Architect and Full Stack Developer.",
+      "Personal portfolio and blog of Kevin Gabriel Maranan, AWS Solutions Architect and Full Stack Developer.",
     author: {
       "@type": "Person",
-      name: "Bjorn Melin",
+      name: "Kevin Gabriel Maranan",
     },
   };
 }

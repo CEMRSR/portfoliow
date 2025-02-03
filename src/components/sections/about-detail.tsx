@@ -34,7 +34,7 @@ export function AboutDetail() {
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-primary/10">
               <Image
                 src="/headshot/headshot-2024.jpg"
-                alt="Bjorn Melin"
+                alt="Kevin Gabriel Maranan"
                 fill
                 sizes="192px"
                 priority
@@ -42,9 +42,9 @@ export function AboutDetail() {
               />
             </div>
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Bjorn Melin</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">Kevin Gabriel Maranan</h1>
               <p className="text-xl text-muted-foreground mb-4">
-                Senior Data Scientist & Cloud Solutions Architect
+                Senior Full Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce
               </p>
               <div className="flex flex-wrap gap-2">
                 <Badge variant="outline" className="bg-primary/10">
