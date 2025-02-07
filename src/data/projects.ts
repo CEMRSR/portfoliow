@@ -60,7 +60,6 @@ export const projectsData: Project[] = [
       "PDF-Manipulation",
       "PDF-Merger",
       "Document-Processing",
-      "PDF-Tools",
     ],
     category: "AI & Machine Learning",
     links: {
