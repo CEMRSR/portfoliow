@@ -56,7 +56,6 @@ export const projectsData: Project[] = [
       "Command-Line-Tool",
       "Document-Management",
       "Batch-Processing",
-      "Pypdf2",
       "PDF-Manipulation",
       "PDF-Merger",
       "Document-Processing",
