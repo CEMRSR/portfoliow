@@ -48,7 +48,6 @@ export const projectsData: Project[] = [
     technologies: [
       "Python",
       "CLI",
-      "PDF",
       "Automation",
       "Utilities",
       "Python-Library",
