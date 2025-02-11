@@ -56,7 +56,6 @@ export const projectsData: Project[] = [
       "Document-Management",
       "Batch-Processing",
       "PDF-Manipulation",
-      "PDF-Merger",
       "Document-Processing",
     ],
     category: "AI & Machine Learning",
