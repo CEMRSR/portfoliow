@@ -21,10 +21,10 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: {
     template: "%s | Kevin Gabriel Maranan",
-    default: "Kevin Gabriel Maranan - Senior Data Scientist & Cloud Solutions Architect",
+    default: "Kevin Gabriel Maranan - Senior Full-Stack Engineer | Versatile Software Engineering Expert | Healthcare, Fintech & E-Commerce",
   },
   description:
-    "Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, cloud architecture, and modern development.",
+    "Senior Full-Stack Engineer specializing in Node.js, React, Django, .NET, cloud architecture, and modern development.",
   keywords: [
     "AWS",
     "Cloud Architecture",

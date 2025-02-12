@@ -4,9 +4,9 @@ export function generatePersonSchema() {
     "@type": "Person",
     name: "Kevin Gabriel Maranan",
     url: "https://kegabmaranan.com",
-    jobTitle: "Senior Data Scientist & Cloud Solutions Architect",
+    jobTitle: "Senior Full-Stack Engineer specializing in Node.js, React, Django, .NET, cloud architecture, and modern development.",
     description:
-      "Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, and cloud architecture. 6x AWS Certified professional.",
+      "Senior Full-Stack Engineer | Versatile Software Engineering Expert specializing in AI/ML, GenAI innovation, and cloud architecture. 6x AWS Certified professional.",
     sameAs: [
       "https://github.com/kegabmaranan",
       "https://linkedin.com/in/kegabmaranan",
