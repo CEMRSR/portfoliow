@@ -26,7 +26,7 @@ export const experiences: Experience[] = [
     endDate: "Present",
     isRemote: true,
     achievements: [
-      { text: "Led the development of a major application that improved client operations, resulting in a 30% reduction in load time for key features." },
+      { text: "Led the development of a major application that improved client operations, resulting in a 40% reduction in load time for key features." },
       { text: "Collaborated with the product team to design a user interface that simplified client interactions, leading to a 40% improvement in user satisfaction." },
       { text: "Mentored a team of junior developers, guiding them through complex project challenges while ensuring timely delivery." },
       { text: "Introduced a new testing framework that streamlined the quality assurance process and cut down manual testing by 40%." },
